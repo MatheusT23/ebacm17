@@ -16,5 +16,4 @@ plt.ylabel('Preço de Venda (R$)')
 
 plt.savefig('gasolina.png')
 
-
 plt.show()
